@@ -27,6 +27,7 @@ npx tsc --init
 Generates a tsconfig.json file with default settings to configure the TypeScript compiler.
 📚 tsc CLI Reference
 
+npm install dotenv
+Installs the dotenv package to load environment variables from a .env file into process.env.
+📚 dotenv GitHub
 
- 
- 
